@@ -14,5 +14,7 @@ Welcome to the ChartSwift demo project! This project showcases the capabilities 
 
 ### ScreenShorts 
 <hr>
-![screenshortPage](https://github.com/yogesh404emac/GitHubAPI/assets/147120453/c658cbf4-d0cd-40b9-8deb-4428c3d09439)
+
+<img src="https://github.com/yogesh404emac/GitHubAPI/assets/147120453/c658cbf4-d0cd-40b9-8deb-4428c3d09439" alt="screen short" width="500" height="600">
+
 <hr>
