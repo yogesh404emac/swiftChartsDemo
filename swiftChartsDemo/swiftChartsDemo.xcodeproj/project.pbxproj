@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		13A75FD92B53F5D200BCA4DB /* PieChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A75FD82B53F5D200BCA4DB /* PieChart.swift */; };
 		13CBD7822B53E3510090779C /* swiftChartsDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13CBD7812B53E3510090779C /* swiftChartsDemoApp.swift */; };
 		13CBD7842B53E3510090779C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13CBD7832B53E3510090779C /* ContentView.swift */; };
 		13CBD7862B53E3520090779C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13CBD7852B53E3520090779C /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		13A75FD82B53F5D200BCA4DB /* PieChart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PieChart.swift; sourceTree = "<group>"; };
 		13CBD77E2B53E3510090779C /* swiftChartsDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swiftChartsDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13CBD7812B53E3510090779C /* swiftChartsDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftChartsDemoApp.swift; sourceTree = "<group>"; };
 		13CBD7832B53E3510090779C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			children = (
 				13CBD7812B53E3510090779C /* swiftChartsDemoApp.swift */,
 				13CBD7832B53E3510090779C /* ContentView.swift */,
+				13A75FD82B53F5D200BCA4DB /* PieChart.swift */,
 				13CBD78F2B53E4630090779C /* StateInfo.swift */,
 				13CBD7912B53E8820090779C /* DataPoint.swift */,
 				13CBD7852B53E3520090779C /* Assets.xcassets */,
@@ -147,6 +150,7 @@
 				13CBD7842B53E3510090779C /* ContentView.swift in Sources */,
 				13CBD7922B53E8820090779C /* DataPoint.swift in Sources */,
 				13CBD7822B53E3510090779C /* swiftChartsDemoApp.swift in Sources */,
+				13A75FD92B53F5D200BCA4DB /* PieChart.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
