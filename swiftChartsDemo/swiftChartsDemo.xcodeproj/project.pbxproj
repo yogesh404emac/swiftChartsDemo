@@ -12,6 +12,7 @@
 		13CBD7862B53E3520090779C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13CBD7852B53E3520090779C /* Assets.xcassets */; };
 		13CBD7892B53E3520090779C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13CBD7882B53E3520090779C /* Preview Assets.xcassets */; };
 		13CBD7902B53E4630090779C /* StateInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13CBD78F2B53E4630090779C /* StateInfo.swift */; };
+		13CBD7922B53E8820090779C /* DataPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13CBD7912B53E8820090779C /* DataPoint.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		13CBD7852B53E3520090779C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		13CBD7882B53E3520090779C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		13CBD78F2B53E4630090779C /* StateInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateInfo.swift; sourceTree = "<group>"; };
+		13CBD7912B53E8820090779C /* DataPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataPoint.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				13CBD7812B53E3510090779C /* swiftChartsDemoApp.swift */,
 				13CBD7832B53E3510090779C /* ContentView.swift */,
 				13CBD78F2B53E4630090779C /* StateInfo.swift */,
+				13CBD7912B53E8820090779C /* DataPoint.swift */,
 				13CBD7852B53E3520090779C /* Assets.xcassets */,
 				13CBD7872B53E3520090779C /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				13CBD7902B53E4630090779C /* StateInfo.swift in Sources */,
 				13CBD7842B53E3510090779C /* ContentView.swift in Sources */,
+				13CBD7922B53E8820090779C /* DataPoint.swift in Sources */,
 				13CBD7822B53E3510090779C /* swiftChartsDemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
